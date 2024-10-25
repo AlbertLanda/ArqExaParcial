@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "gestion-academica-16b5d",
+  "private_key_id": "fc89e2f76a6bedb7ecdd519c610c68ce29c53e18",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCs07kTyT3bKtTq\nl+e76MD0UcDlpN1HJS91XInCZNO+I4brrSighVVjskApgvdqoRE9V2WVDVN+2GE1\nV921fjA/My1KywDZjJgen8er0nXgBkCuiMKLawqIww32BPmeBK2/trz1ZzXTgh9F\nh2ZfunyH0/O0mq/TJI/it2KcaxIKnwrGr5v/4JfHUh62vyg8RJDKtlXHrdF8eDuO\nsHOolGKcai8Vg5rZ4DlENqAzArnFBYf/kWIu69IyUEnNMY/anxvYmOZrFLqdd2iX\nLmiMmBWrsp6PfkChzSVCInVRntUZNqcwITbstdvTrs13/g8T74L3FBwpknXxJWoN\n7vGcthdfAgMBAAECggEARcm5EqRQtg+1qoVsrhRu1jmtCw5nzDLX1yxm9HiCiGUQ\nNlrV7PvqXze7cQfRoN0pePuxqV6YOMBngILapE8wbFTeFTWkQjTjuHoMxvVVZAEi\nXVgcNvAicNdS6+VWZti80I2Z//6NXbtNpWXnkQBdCPwtjOBp33kEISisST1zK5Yj\nQNb8nrmOMYYwbKv9bukwSr9FpZPxAXv1xE6nnrcCP9xRHNdch8NKKpRs92uy57LD\nIi0rQcVb0MD3+jf7Pmr5SV6WVYjihQXLp8A+HDy6zAfUI+TAJoskE6nKPXn4tS9Z\n/ChGI6uDmmFQpLtMRnfzazdTRBVGtDgUQoXjMpHPAQKBgQDeVD/Z8AZ0eGKlRRpc\nBAH/Py7ojgfZn9HW/ML7JqrREAu5EBxzkbR66d5cXS4JraYpvK9r3SakKcZTUro3\naHVh6UssFrEGLvXiInQHfVsOAdm3WQayLmlECHziaqpQNYusgV38Onw1waxitPqN\nMOBUon6LZmhq5dhxluAsr59s9QKBgQDHAERx/ME/rhSaEvSQhoNF0kQYXGFWr/Lv\n3bmo+ldzTOyw5vwcw/5gHWBlJwEp3gzsJLLHvfPyE2eEnA2Ul48HvshQRJweyIFd\nJ4jLRSaE8pEV14DNzL3bWvG+epItI6rVHY+DBBX61Kuiu3gLT6vfrGSrvOP62wWx\nArj3xAY+gwKBgFZ6xutq5dfgC97lZj9sf6pdVU24EW2hMOpDH0S54a+4Yhb2IVsC\nzgUReyDKTeIN3ZhWgJWgTCuG5FH819o9k4smR8s6eFlDYvk3FZLkO8rTBXC//E7K\npr+D3a/kdaMFcPMEzx4RUcdHMlqisuLApEHHgxmOGAecp/hnC4PWPFkRAoGAR0D3\nQQFJiK2iPtDOtPkVA+kX7MkXKVzy1aREmBabPXOrxGPQndQnvu6F13Ix3nXdlqhF\nQ3PmZyU/iaH+0te5pQJQ4zzN0c/lUh+XwYDPHAdmn7V8LzRCPsq/iH6G3JbK0mg1\nPKo33IpNsoUBpLswRXSKz1thHi9SSGE7LawIuFUCgYB2VsV74KuLdJqAabEuNHbG\nOenwLTk0XxmoX7GqtJvjCN6AH9TZYuoqpdnSlOaEX51V/eMlBKrHnsk5c0maIKyL\nXgxdrpXyK4CrWmdrD0T1FVouVpkEONh/Tv7hMMXoYkhQt0JfIVlQ84xVELI0o4mv\nNEJzcHNNchooY9HPN28xjw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-ipehw@gestion-academica-16b5d.iam.gserviceaccount.com",
+  "client_id": "112563183048784354711",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-ipehw%40gestion-academica-16b5d.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
